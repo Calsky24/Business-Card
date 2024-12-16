@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+.card {
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: #8ECAE6;
+    color: #2b2839;
+    border-bottom: 10px solid #003049;
+}
+.avator {
+    width: 200px;
+    height: 310px;
+    padding: 10px
+}    
+.border-blue {
+    border: 12px dotted #415f6e;
+}
+.main {
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large;
+    justify-content: space-between;
+    margin: auto;
+}
+    
